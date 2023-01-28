@@ -3,6 +3,7 @@ asttokens==2.2.1
 backcall==0.2.0
 Box2D==2.3.2
 Box2D-kengz==2.3.3
+box2d-py==2.3.8
 cloudpickle==2.2.0
 comm==0.1.2
 contourpy==1.0.6
@@ -54,4 +55,5 @@ tqdm==4.64.1
 traitlets==5.8.0
 typing_extensions==4.4.0
 wcwidth==0.2.5
+wheel==0.38.4
 zipp==3.11.0

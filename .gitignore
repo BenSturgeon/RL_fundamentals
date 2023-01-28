@@ -19,6 +19,7 @@ ipython_config.py
 .env
 .venv
 env/
+rl_venv/
 venv_cart_pole/
 ENV/
 env.bak/
